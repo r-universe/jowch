@@ -5,3 +5,7 @@
 [submodule "ember"]
 	path = ember
 	url = https://github.com/jowch/Ember
+[submodule "emberui"]
+	path = emberui
+	url = https://github.com/jowch/Ember
+	subdir = inst/emberui
